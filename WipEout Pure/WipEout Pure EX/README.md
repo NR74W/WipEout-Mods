@@ -57,7 +57,7 @@ The XDelta v3 tool can be found on:
 - Corrected Z-fighting bug for the HUD Zone bars in Zone mode.
 - Restored unused Thrust bar.
 - Reduced / removed HUD elements (Minimalist HUD version).
-- Frontend music from the Beta version (UCED-00001).
+- Frontend music from the Beta version (UCED-00017).
 - All tracks available from the start.
 - Restored "Continue without profile" option.
 - To be unlocked, the Beta and Ascension tournaments now require a gold medal.
@@ -114,16 +114,15 @@ The exact reason is unknown.
 
 - Replace all stock Time Trial records with custom ones (Zone League done).
 - Improve AI balancing. Due to time constraints, the AI difficulty couldn't be tested on all 32 tracks and 5 speed classes.
-- Integrate DLCs and add more contents, if possible.
 
 ## Files changed
 
 ### FE.wad
-- Entry #000 - `Data\Plugins\PI001\GUI\ .xml`
+- Entry #000 - `Data\Plugins\PI001\Definition.xml`
 - Entry #005 - `Data\Plugins\PI001\GUI\InGame_Definition.xml`
-- Entry #013 - `Data\Plugins\PI001\GUI\ .xml`
-- Entry #015 - `Data\Plugins\PI001\GUI\ .xml`
-- Entry #018 - `Data\Plugins\PI001\GUI\ .xml`
+- Entry #013 - `Data\Plugins\PI001\GUI\Selection_Definition.xml`
+- Entry #015 - `Data\Plugins\PI001\GUI\StartProfile_Definition.xml`
+- Entry #018 - `Data\Plugins\PI001\GUI\Skin.xml`
 - Entry #023 - `Data\Plugins\PI000\Definition.xml`
 - Entry #066 - `Data\XML\Arcade_HUD.xml`
 - Entry #067 - `Data\XML\TimeTrial_HUD.xml`
