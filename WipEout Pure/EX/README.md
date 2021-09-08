@@ -1,5 +1,7 @@
 # WipEout Pure EX
 
+## Description
+
 A mod for WipEout Pure, focusing on adding contents, Quality of Life improvements and increasing the AI difficulty. *Version 1.0*
 
 Installation of the DLC tracks (`Classic 2` / `Delta` / `Gamma` / `Omega`) is required, otherwise the game will crash if a missing track is highlighted in the Zone Track Selection menu.
