@@ -9,7 +9,7 @@ For experimental use only. It is recommended to back up the savedata before usin
 ## Availability
 
 The patch is too large to be hosted here (92MB), GitHub is not intended to be used as a file sharing service.  
-Instead, the files can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1at8Z9Q-ITwIDpfoGis_DUFSCmD1oVk23?usp=sharing).
+Instead, the files can be downloaded from [MEGA](https://mega.nz/folder/pd4WmL6Y#iIBs0iR0Jws6jRpjH-F08w).
 
 ## Information
 
