@@ -2,13 +2,13 @@
 
 ## Description
 
-This mod adds the 32 tracks from WipEout Pure to WipEout Pulse, for both Race and Zone modes. *Version 1.0*
+This mod adds the 32 tracks from WipEout Pure to WipEout Pulse, for both Race and Zone modes. *Version 2.0*
 
-For experimental use only. It is recommended to back up the savedata before using this mod.
+For experimental use only. It is *recommended* to back up the savedata before using this mod.
 
 ## Availability
 
-The patch is too large to be hosted here (92MB), GitHub is not intended to be used as a file sharing service.  
+The patch is too large to be hosted here (110MB), GitHub is not intended to be used as a file sharing service.  
 Instead, the files can be downloaded from [MEGA](https://mega.nz/folder/pd4WmL6Y#iIBs0iR0Jws6jRpjH-F08w).
 
 ## Information
@@ -31,7 +31,7 @@ The output will be created in a new `patch` folder.
 
 Alternatively, the patch can be applied with XDelta v3 using this line in CMD:
 ```
-xdelta3-3.0.11-x86_64.exe -d -s "input.iso" "WipEout Pulse - FX350 Edition v1.0 (UCES-00465).xdelta3" "output.iso"
+xdelta3-3.0.11-x86_64.exe -d -s "input.iso" "WipEout Pulse - FX350 Edition v2.0 (UCES-00465).xdelta3" "output.iso"
 ```
 
 The XDelta v3 tool can be found on:
@@ -46,6 +46,7 @@ Sometimes the game can still crash after initializing / exiting a race.
 - Altima VII and Porto Kora are not playable from start to finish.
 - The sound banks are partially / not used, the format used in WipEout Pulse may be slightly different.
 - The Quake Disruptor does not work on these tracks, has no effect. The exact reason is unknown.
+- The Statistics screen can only display up to 64 tracks, but the version 2.0 of this mod has 41 tracks (73 in total with the Pulse tracks). Version 1.0 is not affected.
 
 ## Notes
 
@@ -58,6 +59,6 @@ Sometimes the game can still crash after initializing / exiting a race.
 
 ## Special thanks
 
-**thp (Thomas Perl)** for the *WAD documentation* and for the *dlc2dlc* software.
+**thp (Thomas Perl)** for the *WAD documentation* and for the *dlc2dlc* / *wadutil* softwares.
 
 --NR74W [2021-08-30]
