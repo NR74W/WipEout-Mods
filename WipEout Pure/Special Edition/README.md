@@ -2,13 +2,13 @@
 
 ## Description
 
-A custom version of WipEout Pure with all DLC and promotional content. *Version 1.0*
+A custom version of WipEout Pure with all DLC and promotional content. *Version 2.0*
 
 It is recommended to back up the savedata before using this mod.
 
 ## Availability
 
-The patch is too large to be hosted here (167MB), GitHub is not intended to be used as a file sharing service.  
+The patch is too large to be hosted here (172MB), GitHub is not intended to be used as a file sharing service.  
 Instead, the files can be downloaded from [MEGA](https://mega.nz/folder/pd4WmL6Y#iIBs0iR0Jws6jRpjH-F08w).
 
 ## Information
@@ -30,6 +30,9 @@ To prevent any compatibility/save/unknown issues, it is **mandatory** to remove 
 
 The soundbank of Exostra Run was disabled to prevent crash when this track is loaded.
 
+There is also an alternative version of this mod with all tracks available in Zone mode (Version 2.0b).  
+It is available separately because there are issues with the start position in Arcade mode when tracks are used for both Arcade and Zone modes.
+
 ## Usage
 
 The easiest way to patch the game is to use the batch file (.bat), with a simple drag and drop of the ISO onto the .bat file.  
@@ -37,7 +40,7 @@ The output will be created in a new `patch` folder.
 
 Alternatively, the patch can be applied with XDelta v3 using CMD:
 ```
-xdelta3-3.0.11-x86_64.exe -d -s "input.iso" "WipEout Pure - Special Edition v1.0 (Europe).xdelta3" "output.iso"
+xdelta3-3.0.11-x86_64.exe -d -s "input.iso" "WipEout Pure - Special Edition v2.0 (Europe).xdelta3" "output.iso"
 ```
 
 The XDelta v3 tool can be found on:
@@ -52,9 +55,10 @@ The XDelta v3 tool can be found on:
 - Inaccurate team color breakdown in Team Selection for Goteki45 / Tigron / Icaras / Van Uber / Puma 1 / Puma 2 / Coke Style / Wire05 / Stealth fixed.
 - Unused animated adverts restored; music licensed animated adverts disabled.
 - Thrust Bar (Arcade) restored.
-- Original Delta track used and order restored.
+- Original Delta tracks used and order restored.
 - "Continue Without Profile" option restored.
 - All tracks / ships / leagues available from the start.
+- Original frontend music used and edited (Curves by Röyksopp).
 - Files for the PSP XMB interface (PNG/PMF/AT3/SFO) edited.
 - Teasers removed.
 - PSP 1.52 System Update removed.
