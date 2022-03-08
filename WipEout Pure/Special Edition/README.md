@@ -30,7 +30,7 @@ To prevent any compatibility/save/unknown issues, it is **mandatory** to remove 
 
 The soundbank of Exostra Run was disabled to prevent crash when this track is loaded.
 
-There is also an alternative version of this mod with all tracks available in Zone mode (Version 2.0b).  
+There is also an experimental, alternative version of this mod with all tracks available in Zone mode (Version 2.0b).  
 It is available separately because there are issues with the start position in Arcade mode when tracks are used for both Arcade and Zone modes.
 
 ## Usage
@@ -46,6 +46,28 @@ xdelta3-3.0.11-x86_64.exe -d -s "input.iso" "WipEout Pure - Special Edition v2.0
 The XDelta v3 tool can be found on:
 - GitHub: https://github.com/jmacd/xdelta-gpl/releases/tag/v3.0.11
 - Romhacking.net: http://www.romhacking.net/utilities/928/
+
+Size and checksums of the patched game:
+
+```
+WipEout Pure - Special Edition v2.0 (Europe)
+
+Size:   609222656
+
+CRC-32: c90c00d1
+MD5:    6d7d80aea4b0b45e957241db8a97fd03
+SHA-1:  1e07351e85de542ea096f1e2ff9d98b060f77a3e
+```
+
+```
+WipEout Pure - Special Edition v2.0b (Europe)
+
+Size:   609564672
+
+CRC-32: ed0fc7c2
+MD5:    29226bbe5623204b54c25404cf0a68f1
+SHA-1:  47f29be3475bbc050775cfddf26ae810f61013b5
+```
 
 ## Changes
 
