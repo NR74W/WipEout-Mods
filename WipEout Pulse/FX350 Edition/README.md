@@ -4,7 +4,7 @@
 
 This mod adds the 32 tracks from WipEout Pure to WipEout Pulse, for both Race and Zone modes. *Version 2.0*
 
-For experimental use only. It is *recommended* to back up the savedata before using this mod.
+For experimental use only. It is **recommended** to back up the savedata before using this mod.
 
 ## Availability
 
@@ -59,6 +59,6 @@ Sometimes the game can still crash after initializing / exiting a race.
 
 ## Special thanks
 
-**thp (Thomas Perl)** for the *WAD documentation* and for the *dlc2dlc* / *wadutil* softwares.
+**thp (Thomas Perl)** for the *wadutil* script, the *dlc2dlc* tool and the *WAD documentation*.
 
 --NR74W [2021-08-30]
