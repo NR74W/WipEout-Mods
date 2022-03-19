@@ -76,7 +76,7 @@ SHA-1:  47f29be3475bbc050775cfddf26ae810f61013b5
 - All DLC / Promotional content added.
 - Z-fighting on the Zone HUD fixed.
 - Wrong texture coordinates and Lenght/Height values used in menu for the Stealth track screen fixed.
-- Inaccurate team color breakdown in Team Selection for Goteki45 / Tigron / Icaras / Van Uber / Puma 1 / Puma 2 / Coke Style / Wire05 / Stealth fixed.
+- Incorrect team color breakdown in Team Selection for Goteki45 / Tigron / Icaras / Van Uber / Puma 1 / Puma 2 / Coke Style / Wire05 / Stealth fixed.
 - Unused animated adverts restored; music licensed animated adverts disabled.
 - Thrust Bar (Arcade) restored.
 - Original Delta tracks used and order restored.
