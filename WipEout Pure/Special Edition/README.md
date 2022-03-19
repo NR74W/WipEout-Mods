@@ -33,6 +33,8 @@ The soundbank of Exostra Run was disabled to prevent crash when this track is lo
 There is also an experimental, alternative version of this mod with all tracks available in Zone mode (Version 2.0b).  
 It is available separately because there are issues with the start position in Arcade mode when tracks are used for both Arcade and Zone modes.
 
+The Hard Difficulty and Zone League from the WipEout Pure EX mod are available as an add-on patch (WipEout Pure: Special Edition Extreme).
+
 ## Usage
 
 The easiest way to patch the game is to use the batch file (.bat), with a simple drag and drop of the ISO onto the .bat file.  
