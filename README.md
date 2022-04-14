@@ -4,10 +4,6 @@ A repository containing mods for games of the WipEout series.
 
 ## FX300 - WipEout Pure
 
-### WipEout Pure EX
-
-A mod for WipEout Pure, focusing on adding contents, Quality of Life improvements and increasing the AI difficulty.
-
 ### WipEout Pure: Special Edition
 
 A custom version of WipEout Pure with all DLC and promotional content.
