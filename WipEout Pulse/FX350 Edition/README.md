@@ -1,4 +1,4 @@
-# WipEout Pulse - FX350 Edition
+# WipEout Pulse: FX350 Edition
 
 ## Description
 
@@ -50,9 +50,7 @@ Sometimes the game can still crash after initializing / exiting a race.
 
 ## Notes
 
-- No game files changed, files were only added and modified externally.
 - All of the issues listed above cannot be fixed without editing each track.
-- It was not possible to make the track preview textures from WipEout Pure displayed in Racebox.
 - The game ignores track effects in Zone mode (VR environment), Rain / Snow / Mist are only used in the other modes.
 - On the custom grid interface, the new tracks have a default target of 100 Zones / 250 Kills (original limits: 50 Zones / 25 Kills).
 - The original track order was mostly restored.

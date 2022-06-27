@@ -14,10 +14,14 @@ A custom version of WipEout Pure with all DLC and promotional content.
 
 A set of modded custom grids, edited beyond what the game's built-in grid creation tool allows, such as the number of laps and Zone / Eliminator targets.
 
-### WipEout Pulse - FX350 Edition
+### WipEout Pulse: FX350 Edition
 
 This mod adds the 32 tracks from WipEout Pure to WipEout Pulse, for both Race and Zone modes.
 
 ### WipEout Pulse - Hard Mode
 
 A rudimentary AI difficulty mod, which affects all 32 tracks.
+
+### WipEout Pulse - PS2 Concept Ships
+
+Restores the unused Concept ships in the PlayStation 2 version of WipEout Pulse.
