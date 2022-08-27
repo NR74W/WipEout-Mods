@@ -84,6 +84,9 @@ HUD Pack - `UCES00001DHUDPACK`
 WipEout Skins Pack - `UCES00001DWOSKIN`
 - Contains 4 custom menu skins (WipEout / WipEout 2097 / Wip3out / WipEout Fusion).
 
+WipEoutZone Skin Pack - `UCES00001DWZSKIN`
+- Adds a skin inspired by the WipEoutZone website. (Based on the idea of a fan from [WipEoutZone](https://www.wipeoutzone.com/forum/showthread.php?2809-WipeoutZonE-Skin) in 2005)
+
 Coca-Cola Ships Pack - `UCES00001DCOCACOLA`
 - Replaces the standard ship with a Coca-Cola version for the original 8 teams. (From UCJS10007DCOCACOLA4)
 
