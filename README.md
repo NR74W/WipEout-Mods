@@ -16,11 +16,11 @@ A set of modded custom grids, edited beyond what the game's built-in grid creati
 
 ### WipEout Pulse: FX350 Edition
 
-This mod adds the 32 tracks from WipEout Pure to WipEout Pulse, for both Race and Zone modes.
+This mod adds the 32 tracks from WipEout Pure to WipEout Pulse.
 
-### WipEout Pulse - Hard Mode
+### WipEout Pulse - Elite Difficulty
 
-A rudimentary AI difficulty mod, which affects all 32 tracks.
+A difficulty mod that improves the AI.
 
 ### WipEout Pulse - PS2 Concept Ships
 
