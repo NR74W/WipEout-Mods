@@ -16,7 +16,7 @@ A set of modded custom grids, edited beyond what the game's built-in grid creati
 
 ### WipEout Pulse: FX350 Edition
 
-This mod adds the 32 tracks from WipEout Pure to WipEout Pulse.
+This mod adds the 32 tracks of WipEout Pure in WipEout Pulse.
 
 ### WipEout Pulse - Elite Difficulty
 

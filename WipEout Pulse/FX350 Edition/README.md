@@ -2,7 +2,7 @@
 
 ## Description
 
-This mod adds the 32 tracks from WipEout Pure to WipEout Pulse. *Version 3.1*
+This mod adds the 32 tracks of WipEout Pure in WipEout Pulse. *Version 3.5*
 
 It is **recommended** to back up the save data before using this mod.
 
@@ -21,14 +21,14 @@ MD5:    e297f0b8d5359c18b2ca3677eff2b714
 SHA-1:  d359418b5a5d818cfc46408756cb2b7c0131b6b4
 ```
 
-Size and checksums of the patched game `WipEout Pulse - FX350 Edition v3.1 (Europe).iso`:
+Size and checksums of the patched game `WipEout Pulse - FX350 Edition v3.5 (Europe).iso`:
 
 ```
-Size:   747700224
+Size:   798779392
 
-CRC-32: 35a913e8
-MD5:    45139f045125d7cae95cad344e43ad87
-SHA-1:  397f03c5e277d1559cebf34e49788336e18c5d98
+CRC-32: da5be961
+MD5:    cc2ef549351f3a178eaa5b46c01304ba
+SHA-1:  69754d6bbd7966a60925d7459d713a4d33344282
 ```
 
 ## Usage
@@ -38,7 +38,7 @@ The output will be created in a new `patch` folder.
 
 Alternatively, the patch can be applied with XDelta v3 using this line in CMD:
 ```
-xdelta3-3.0.11-x86_64.exe -d -s "input.iso" "WipEout Pulse - FX350 Edition v3.1 (Europe).xdelta3" "output.iso"
+xdelta3-3.0.11-x86_64.exe -d -s "input.iso" "WipEout Pulse - FX350 Edition v3.5 (Europe).xdelta3" "output.iso"
 ```
 
 The XDelta v3 tool can be found on:
@@ -55,6 +55,7 @@ The XDelta v3 tool can be found on:
 - All 32 tracks from WipEout Pure added.
 - DLC content is fully integrated.
 - All tracks / ships available from the start.
+- All tracks available for Zone mode.
 - In the custom grid editor interface, all tracks now have a default target of 100 Zones / 250 Kills (original limits: 50 Zones / 25 Kills).
 - The Quake weapon has been disabled to avoid compatibility issues.
 - Shuriken and Repulsor are now enabled in Single Race / Tournament modes.
@@ -63,4 +64,4 @@ The XDelta v3 tool can be found on:
 
 **thp (Thomas Perl)** for the *wadutil* script, the *dlc2dlc* tool and the *WAD documentation*.
 
---NR74W [2021-08-30] *(Updated: 2022-09-24)*
+--NR74W [2021-08-30] *(Updated: 2022-10-02)*
