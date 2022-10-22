@@ -4,15 +4,11 @@
 
 A custom version of WipEout Pure with all DLC and promotional content. *Version 3.0*
 
-It is **recommended** to back up the save data before using this mod.  
-All **official** WipEout Pure DLC (`UCES00001D`) in the SAVEDATA folder must be removed to avoid compatibility issues.
-
 The patch can be downloaded from [MEGA](https://mega.nz/folder/pd4WmL6Y#iIBs0iR0Jws6jRpjH-F08w) (199MB).
 
 ## Information
 
-The mod was made for the European version of WipEout Pure (UCES-00001).  
-Check the size and checksums of the dump against redump: http://redump.org/disc/609/
+WipEout Pure (UCES-00001): http://redump.org/disc/609/
 
 ```
 Size:   352714752
@@ -33,6 +29,8 @@ SHA-1:  4ed46c0661120dab2aeee78bbc3a22883e51eea4
 ```
 
 ### Notes
+All **official** WipEout Pure DLC (`UCES00001D`) in the SAVEDATA folder must be removed to avoid compatibility issues.
+
 To use custom DLCs, the *Remove DLC Signature Check* cheat code created by **thp (Thomas Perl)** must be used:
 
 ```
@@ -45,15 +43,12 @@ _L 0x200A70A0 0x00000000
 
 ## Usage
 
-The easiest way to patch the game is to use the batch file (.bat), with a simple drag and drop of the ISO onto the .bat file.  
-The output will be created in a new `patch` folder.
-
-Alternatively, the patch can be applied with XDelta v3 using CMD:
+The game can be patched with a drag and drop of the ISO onto the .bat file. The output will be created in a new `patch` folder.  
+Alternatively, the patch can be applied using CMD:
 ```
 xdelta3-3.0.11-x86_64.exe -d -s "input.iso" "WipEout Pure - Special Edition v3.0 (Europe).xdelta3" "output.iso"
 ```
 
-The XDelta v3 tool can be found on:
 - GitHub: https://github.com/jmacd/xdelta-gpl/releases/tag/v3.0.11
 - Romhacking.net: http://www.romhacking.net/utilities/928/
 
