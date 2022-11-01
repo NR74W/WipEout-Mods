@@ -1,63 +1,39 @@
-# WipEout Pulse: FX350 Edition
+## WipEout Pulse: FX350 Edition
+A custom version of WipEout Pulse with all tracks from WipEout Pure and enhancements. *Version 4.0*
 
-## Description
-
-This mod adds the 32 tracks of WipEout Pure in WipEout Pulse. *Version 3.8*
-
-The patch can be downloaded from [MEGA](https://mega.nz/folder/pd4WmL6Y#iIBs0iR0Jws6jRpjH-F08w) (115MB).
-
-## Information
-
-WipEout Pulse (UCES-00465): http://redump.org/disc/3602/
+### Information
+WipEout Pulse (UCES-00465): http://redump.org/disc/3602/  
+Patch available on [MEGA](https://mega.nz/folder/tFJ1FCrK#q7W0ceU6nviH7BacLff_EA) (114MB).
 
 ```
-Size:   456851456
+Size:   456851456 > 800192512
 
-CRC-32: 6901cb57
-MD5:    e297f0b8d5359c18b2ca3677eff2b714
-SHA-1:  d359418b5a5d818cfc46408756cb2b7c0131b6b4
+CRC-32: 6901cb57 > 329f7eaa
+MD5:    e297f0b8d5359c18b2ca3677eff2b714 > f80ee75c4b20fcd1e3fa5132f0a59624
+SHA-1:  d359418b5a5d818cfc46408756cb2b7c0131b6b4 > ccfc282e66ee8bc6f4be32b1ea7447732b3b5aea
 ```
 
-Size and checksums of the patched game `WipEout Pulse - FX350 Edition v3.8 (Europe).iso`:
+### Changes
+- Added  
+*-* DLC content  
+*-* All 32 tracks from WipEout Pure  
+*-* All tracks available for Zone mode  
+*-* All tracks / ships available from the start  
+*-* Maximum target of 100 Zones / 250 Kills in the custom grid editor (1000 Kills in Racebox)  
+*-* Shuriken and Repulsor enabled in Single Race; Quake disabled (incompatible on legacy tracks)
 
-```
-Size:   798873600
+- Resolved  
+*-* Assegai / Auricom Zone FE models  
+*-* Weapon icons position on the HUD
 
-CRC-32: 3c9106b8
-MD5:    eb92e7eebadf518ecad6fe206001ce11
-SHA-1:  6154848aa34b7989fffe24ec74f2c33a01b83849
-```
+- Restored  
+*-* Fifth track preview images  
+*-* Head to Head and Eliminator modes in multiplayer
 
-## Usage
+### Issues
+- Altima VII and Porto Kora are unplayable
+- The game crashes in the Statistics menu ("Laps per track" screen) after a race
 
-The game can be patched with a drag and drop of the ISO onto the .bat file. The output will be created in a new `patch` folder.  
-Alternatively, the patch can be applied using CMD:
-```
-xdelta3-3.0.11-x86_64.exe -d -s "input.iso" "WipEout Pulse - FX350 Edition v3.8 (Europe).xdelta3" "output.iso"
-```
-
-- GitHub: https://github.com/jmacd/xdelta-gpl/releases/tag/v3.0.11
-- Romhacking.net: http://www.romhacking.net/utilities/928/
-
-## Known issues
-
-- Altima VII and Porto Kora are not playable from start to finish.
-- The game can sometimes crash in the Statistics menu.
-
-## Changes
-
-- All 32 tracks from WipEout Pure added.
-- DLC content is fully integrated.
-- All tracks / ships available from the start.
-- All tracks available for Zone mode.
-- In the custom grid editor interface, all tracks now have a default target of 100 Zones / 250 Kills (original limits: 50 Zones / 25 Kills).
-- The Quake weapon has been disabled to avoid compatibility issues.
-- Shuriken and Repulsor are now enabled in Single Race / Tournament modes.
-- Assegai / Auricom Zone mode FE models fixed.
-- Weapon icons position on the HUD corrected.
-
-## Special thanks
-
-**thp (Thomas Perl)** for the *wadutil* script, the *dlc2dlc* tool and the *WAD documentation*.
-
---NR74W [2021-08-30] *(Updated: 2022-10-22)*
+### Custom DLC
+- **Elite Difficulty** - A custom DLC that improves the AI difficulty  
+The mod can be installed in `PSP/GAME/UCES00465`, and works with all versions of the game.

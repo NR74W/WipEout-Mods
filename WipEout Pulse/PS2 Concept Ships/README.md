@@ -1,38 +1,15 @@
-# WipEout Pulse - PS2 Concept Ships
+## WipEout Pulse - PS2 Concept Ships
+Restores the unused Concept ships in the PlayStation 2 version of WipEout Pulse.  
+All ships are available from the start.
 
-## Description
-
-Restores the unused Concept ships in the PlayStation 2 version of WipEout Pulse.
-
-## Information
-
-WipEout Pulse (SCES-54748): http://redump.org/disc/10480/
+### Information
+WipEout Pulse (SCES-54748): http://redump.org/disc/10480/  
+Patch available on [MEGA](https://mega.nz/folder/tFJ1FCrK#q7W0ceU6nviH7BacLff_EA) (16KB).
 
 ```
-Size:   3892936704
+Size:   3892936704 > 3892936704
 
-CRC-32: 5e731329
-MD5:    4eef59c9a1c98b9202904c571bd14a3f
-SHA-1:  4ba7e0fca9ef5032a45653972faf3cfe08991284
+CRC-32: 5e731329 > 21c73b93
+MD5:    4eef59c9a1c98b9202904c571bd14a3f > 16d7def52e08e138e631166d1f4127e7
+SHA-1:  4ba7e0fca9ef5032a45653972faf3cfe08991284 > 794a82012d762ba8ab5356dc174fd800cd266d21
 ```
-
-## Usage
-
-The game can be patched with a drag and drop of the ISO onto the .bat file. The output will be created in a new `patch` folder.  
-Alternatively, the patch can be applied using CMD:
-```
-xdelta3-3.0.11-x86_64.exe -d -s "input.iso" "WipEout Pulse - PS2 Concept Ships (SCES-54748).xdelta3" "output.iso"
-```
-
-- GitHub: https://github.com/jmacd/xdelta-gpl/releases/tag/v3.0.11
-- Romhacking.net: http://www.romhacking.net/utilities/928/
-
-## Note
-
-- All ships are available from the start.
-
-## Special thanks
-
-**thp (Thomas Perl)** for the *wadutil* script, the *dlc2dlc* tool and the *WAD documentation*.
-
---NR74W [2022-06-20]
