@@ -1,45 +1,57 @@
 ## WipEout Pure: Special Edition
-A custom version of WipEout Pure with all DLC content and various improvements. *Version 3.0*
-
-All official WipEout Pure DLC in the SAVEDATA folder must be removed before use.  
-The *Remove DLC Signature Check* cheat code created by **thp (Thomas Perl)** must be enabled to use custom DLC.
+The definitive version of WipEout Pure. [*Version 5.0*](https://mega.nz/folder/lMRVELoR#01a4KaUDbCycjlrDgq5UdQ)
 
 ### Information
-WipEout Pure (UCES-00001): http://redump.org/disc/609/  
-Patch available on [MEGA](https://mega.nz/folder/tFJ1FCrK#q7W0ceU6nviH7BacLff_EA) (199MB).
+```diff
+WipEout Pure (UCES-00001) > WipEout Pure: Special Edition (WPSE-02197)
+Size:   352714752 > 330151936
 
-```
-Size:   352714752 > 739143680
+CRC-32: 430725bf > 879d27b7 (v5.0) / c23085de (v5.0A)
+MD5:    181d349bb577f0cc4aafdc54d9aea96b > 6191695fd68f7a6ac25925978cb3f728 (v5.0) / 1250e92ad092bfb4a92a319d464128b7 (v5.0A)
+SHA-1:  710a189ebece7af3a1e796fdcd070302ee562097 > 619f542e42f8e50729db7d2a26df98fe72241e46 (v5.0) / 285891d40dafaaadc0bb7dccf87871ca183f9b9c (v5.0A)
 
-CRC-32: 430725bf > a2a6e284
-MD5:    181d349bb577f0cc4aafdc54d9aea96b > 96706906e3b6ea3e5fd70e7bf9f5ff24
-SHA-1:  710a189ebece7af3a1e796fdcd070302ee562097 > 4ed46c0661120dab2aeee78bbc3a22883e51eea4
+Delta Patcher: https://github.com/marco-calautti/DeltaPatcher
 ```
+
+### Alternative
+Version 5.0A removes the [sun lens flare effect](https://github.com/hrydgard/ppsspp/issues/13344), which is inaccurately rendered on PPSSPP (always visible / flickering).  
+This version is intended for use with PPSSPP, since the effect is correct on real hardware.
 
 ### Changes
 - Added  
-*-* All DLC / Promotional content  
-*-* All tracks available for Zone mode  
-*-* Increased AI difficulty and new records  
-*-* All tracks / ships / leagues available from the start  
-*-* "Next Race" option in Single Race / Time Trial pause menu
+*-* All DLC content  
+*-* All tracks available in Zone mode  
+*-* All tracks / ships / leagues / speed classes available from the start  
+*-* Japanese language
 
 - Resolved  
-*-* Triakis and Piranha stats  
-*-* Z-fighting on Zone HUD  
-*-* League and skin preview textures  
-*-* DLC teams color breakdown in Team Selection
+*-* Ship stats  
+*-* Grid position on Sinucit  
+*-* Z-fighting on Zone HUD
 
-- Restored  
-*-* Thrust Bar  
-*-* Unused animated adverts  
-*-* "Best Time" on Arcade HUD  
-*-* "Continue Without Profile" option
+- Other changes  
+*-* Game size reduced  
+*-* Interface improved  
+*-* Thrust bar restored  
+*-* 60FPS in all game modes  
+*-* DLC signature check disabled  
+*-* …
 
 ### Custom DLC
-- Zone Pack `UCES00001DZONEPACK` - Adds the Zone League (Pro Tozo / Mallavol / Corridon 12 / Syncopia)
-- HUD Pack `UCES00001DHUDPACK` - Reduces the size of the HUD elements
-- WipEout Skins Pack `UCES00001DWOSKIN` - Contains 4 custom menu skins (WipEout / WipEout 2097 / Wip3out / WipEout Fusion)
-- WipEoutZone Skin Pack `UCES00001DWZSKIN` - Adds a skin inspired by the [WipEoutZone](https://www.wipeoutzone.com/forum/showthread.php?2809-WipeoutZonE-Skin) website
-- Coca-Cola Ships Pack `UCES00001DCOCACOLA` - Replaces the standard ship with a Coca-Cola version for the original 8 teams
-- Japanese Language Pack `UCES00001DJAPANPACK` - Adds the official Japanese localization
+```diff
+Promotional Pack (WPSE02197DPROMO) : Enables the promotional content (MediEvil, Puma, Sci Fi, Coca-Cola, Stealth, …)
+```
+- Packs  
+*-* HUD Pack `WPSE02197DHUD` : Reduces the size of the HUD elements  
+*-* Expert Pack `WPSE02197DEXPERT` : Increases the AI difficulty  
+*-* Zone Pack `WPSE02197DZONE` : Adds the Zone League and tournament (Pro Tozo / Mallavol / Corridon 12 / Syncopia)
+
+- Skins  
+*-* WipEout Skins `WPSE02197DWO` : Contains 5 custom menu skins (WipEout / WipEout 2097 / WipEout 64 / Wip3out / WipEout Fusion)  
+*-* WipEoutZone Skin `WPSE02197DWZ` : Adds a custom skin inspired by the [WipEoutZone](https://www.wipeoutzone.com/forum/showthread.php?2809-WipeoutZonE-Skin) website
+
+- Ships  
+*-* Coca-Cola Ships `WPSE02197DCOCACOLA` : Replaces the standard ship with a Coca-Cola version for the original 8 teams
+
+- Fonts *[Installable on UMD]*  
+`Wip3out Font` : Replaces the fonts with F500 Ang-ular and Helvetica from Wip3out

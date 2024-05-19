@@ -1,12 +1,10 @@
 ## WipEout Pulse - PS2 Concept Ships
-Restores the unused Concept ships in the PlayStation 2 version of WipEout Pulse.  
+Restores the unused Concept ships in the PlayStation 2 version of WipEout Pulse. [*Version 1.0*](https://mega.nz/folder/lMRVELoR#01a4KaUDbCycjlrDgq5UdQ)  
 All ships are available from the start.
 
 ### Information
-WipEout Pulse (SCES-54748): http://redump.org/disc/10480/  
-Patch available on [MEGA](https://mega.nz/folder/tFJ1FCrK#q7W0ceU6nviH7BacLff_EA) (16KB).
-
-```
+```diff
+WipEout Pulse (SCES-54748) > WipEout Pulse - PS2 Concept Ships (SCES-54748)
 Size:   3892936704 > 3892936704
 
 CRC-32: 5e731329 > 21c73b93
