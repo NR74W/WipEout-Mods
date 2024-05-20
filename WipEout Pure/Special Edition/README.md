@@ -37,13 +37,13 @@ This version is intended for use with PPSSPP, since the effect is correct on rea
 *-* DLC signature check disabled  
 *-* …
 
-### Custom DLC
+### Downloadable Content
 ```diff
 Promotional Pack (WPSE02197DPROMO) : Enables the promotional content (MediEvil, Puma, Sci Fi, Coca-Cola, Stealth, …)
 ```
 - Packs  
-*-* HUD Pack `WPSE02197DHUD` : Reduces the size of the HUD elements  
 *-* Expert Pack `WPSE02197DEXPERT` : Increases the AI difficulty  
+*-* HUD Pack `WPSE02197DHUD` : Reduces the size of the HUD elements  
 *-* Zone Pack `WPSE02197DZONE` : Adds the Zone League and tournament (Pro Tozo / Mallavol / Corridon 12 / Syncopia)
 
 - Skins  

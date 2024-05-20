@@ -30,6 +30,6 @@ This version is experimental, there are critical issues that cannot be fixed.
 *-* Fifth track preview images  
 *-* Head to Head and Eliminator modes in multiplayer
 
-### Custom DLC
+### Downloadable Content
 - **Custom Grids** - A set of modded custom grids.
 - **Elite Difficulty** - Upgrades the Hard AI difficulty level to Elite
