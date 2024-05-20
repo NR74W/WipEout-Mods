@@ -1,5 +1,5 @@
 ## WipEout Pulse: FX350 Edition
-WipEout Pulse with all DLC content and various improvements. [*Version 4.0A*](https://mega.nz/folder/lMRVELoR#01a4KaUDbCycjlrDgq5UdQ)
+WipEout Pulse with all DLC content and various improvements. [*Version 4.0A*](https://mega.nz/folder/lMRVELoR#01a4KaUDbCycjlrDgq5UdQ/folder/pUxGFShC)
 
 ### Information
 ```diff

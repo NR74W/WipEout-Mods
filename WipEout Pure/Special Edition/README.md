@@ -1,5 +1,5 @@
 ## WipEout Pure: Special Edition
-The definitive version of WipEout Pure. [*Version 5.0*](https://mega.nz/folder/lMRVELoR#01a4KaUDbCycjlrDgq5UdQ)
+The definitive version of WipEout Pure. [*Version 5.0*](https://mega.nz/folder/lMRVELoR#01a4KaUDbCycjlrDgq5UdQ/folder/NYYxQB5a)
 
 ### Information
 ```diff
