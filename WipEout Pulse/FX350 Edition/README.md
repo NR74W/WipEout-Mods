@@ -18,7 +18,7 @@ This version is experimental, there are critical issues that cannot be fixed.
 ### Changes
 - Added  
 *-* DLC content  
-*-* All tracks available for Zone mode  
+*-* All tracks available in Zone mode  
 *-* All tracks / ships available from the start  
 *-* Maximum target limit of 100 Zones / 250 Kills
 

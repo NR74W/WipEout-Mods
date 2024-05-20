@@ -6,9 +6,9 @@ The definitive version of WipEout Pure. [*Version 5.0*](https://mega.nz/folder/l
 WipEout Pure (UCES-00001) > WipEout Pure: Special Edition (WPSE-02197)
 Size:   352714752 > 330151936
 
-CRC-32: 430725bf > 879d27b7 (v5.0) / c23085de (v5.0A)
-MD5:    181d349bb577f0cc4aafdc54d9aea96b > 6191695fd68f7a6ac25925978cb3f728 (v5.0) / 1250e92ad092bfb4a92a319d464128b7 (v5.0A)
-SHA-1:  710a189ebece7af3a1e796fdcd070302ee562097 > 619f542e42f8e50729db7d2a26df98fe72241e46 (v5.0) / 285891d40dafaaadc0bb7dccf87871ca183f9b9c (v5.0A)
+CRC-32: 430725bf > 05da63cc (v5.0) / 49b391c4 (v5.0A)
+MD5:    181d349bb577f0cc4aafdc54d9aea96b > 662f81c656b0fa0dd218787957fe651a (v5.0) / b5a79946be66796b75cf3f401a7a3486 (v5.0A)
+SHA-1:  710a189ebece7af3a1e796fdcd070302ee562097 > b32ef23e048506fd7b1b70927ef81b21da6c9475 (v5.0) / 15a015358ee9f99e348ffe164f054b612c3b5c4e (v5.0A)
 
 Delta Patcher: https://github.com/marco-calautti/DeltaPatcher
 ```
