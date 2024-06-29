@@ -10,4 +10,6 @@ Size:   3892936704 > 3892936704
 CRC-32: 5e731329 > 21c73b93
 MD5:    4eef59c9a1c98b9202904c571bd14a3f > 16d7def52e08e138e631166d1f4127e7
 SHA-1:  4ba7e0fca9ef5032a45653972faf3cfe08991284 > 794a82012d762ba8ab5356dc174fd800cd266d21
+
+Delta Patcher: https://github.com/marco-calautti/DeltaPatcher
 ```
