@@ -53,5 +53,6 @@ Delta Patcher: https://github.com/marco-calautti/DeltaPatcher
 *-* Coca-Cola Ships `WPSE02197DCOCACOLA` : Replaces the standard ship with a Coca-Cola version for the original 8 teams  
 *-* VR Ships `WPSE02197DVR` : Makes all ships use their VR variant (from Classic League) on all tracks with VR effects
 
-- Fonts *[Installable on UMD]*  
-`Wip3out Font` : Replaces the fonts with F500 Ang-ular and Helvetica from Wip3out
+- Fonts **[.xdelta]**  
+`Wip3out Font` : Replaces the fonts with F500 Ang-ular and Helvetica from Wip3out  
+`WipEout Fusion Font` : Adds the font and menu music from WipEout Fusion
