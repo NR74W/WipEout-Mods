@@ -1,19 +1,19 @@
 ## WipEout Pure: Special Edition
-The definitive version of WipEout Pure. [*Version 5.2*](https://mega.nz/folder/lMRVELoR#01a4KaUDbCycjlrDgq5UdQ/folder/NYYxQB5a)
+The definitive version of WipEout Pure. [*Version 5.3*](https://mega.nz/folder/lMRVELoR#01a4KaUDbCycjlrDgq5UdQ/folder/NYYxQB5a)
 
 ### Information
 ```diff
 WipEout Pure (UCES-00001) > WipEout Pure: Special Edition (WPSE-02197)
-Size:   352714752 > 331651072
+Size:   352714752 > 331776000
 
-CRC-32: 430725bf > f1663aaf (v5.2) / 1d598fe1 (v5.2A)
-MD5:    181d349bb577f0cc4aafdc54d9aea96b > 584fa4fd385e39fad6987f63ff638b5e (v5.2) / c693e577b8c0b0b9eee4c7fd928564ef (v5.2A)
-SHA-1:  710a189ebece7af3a1e796fdcd070302ee562097 > b7f27f7f33b85c279bb926f9738cf7c2beea2ec6 (v5.2) / b16597747de70aa8fd33c095a31c773067023e40 (v5.2A)
+CRC-32: 430725bf > 8dcb4354 (v5.3) / bab445df (v5.3A)
+MD5:    181d349bb577f0cc4aafdc54d9aea96b > dc3133c43b72664f54a485113fc61e67 (v5.3) / 38434e3e14baa826beddea2d8942e961 (v5.3A)
+SHA-1:  710a189ebece7af3a1e796fdcd070302ee562097 > 5d06789cf4ff96cf932f48df546a802122b10612 (v5.3) / c0f844424e50987b8e187af356eefe0f63e2c002 (v5.3A)
 
 Delta Patcher: https://github.com/marco-calautti/DeltaPatcher
 ```
 > [!TIP]
-> Version 5.2A removes the [sun lens flare effect](https://github.com/hrydgard/ppsspp/issues/13344), which is inaccurately rendered on PPSSPP (always visible / flickering).  
+> Version 5.3A removes the [sun lens flare effect](https://github.com/hrydgard/ppsspp/issues/13344), which is inaccurately rendered on PPSSPP (always visible / flickering).  
 > This version is intended for use with PPSSPP, since the effect is correct on real hardware.
 
 ### Changes
@@ -32,7 +32,7 @@ Delta Patcher: https://github.com/marco-calautti/DeltaPatcher
 *-* Game size reduced  
 *-* Interface improved  
 *-* Thrust bar restored  
-*-* 60FPS built-in (v5.2A)  
+*-* 60FPS built-in (v5.3A)  
 *-* DLC signature check disabled  
 *-* …
 
@@ -43,7 +43,7 @@ Delta Patcher: https://github.com/marco-calautti/DeltaPatcher
 - Packs  
 *-* Expert Pack `WPSE02197DEXPERT` : Increases the AI difficulty  
 *-* HUD Pack `WPSE02197DHUD` : Reduces the size of the HUD elements  
-*-* Zone Pack `WPSE02197DZONE` : Adds the Zone League and tournament (Pro Tozo / Mallavol / Corridon 12 / Syncopia)
+*-* Zone Pack `WPSE02197DZONE` : Adds the Zone League (Pro Tozo / Mallavol / Corridon 12 / Syncopia) and tournaments
 
 - Skins  
 *-* WipEout Skins `WPSE02197DWO` : Contains 5 custom menu skins (WipEout / WipEout 2097 / WipEout 64 / Wip3out / WipEout Fusion)  
