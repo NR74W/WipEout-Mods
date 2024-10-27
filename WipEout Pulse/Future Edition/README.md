@@ -1,3 +1,4 @@
+![WipEout Pulse](https://github.com/user-attachments/assets/b939beb0-1b82-436a-b174-7fb29a8a3e8b)
 ## WipEout Pulse: Future Edition
 A complete and improved version of WipEout Pulse. [*Version 5.1*](https://mega.nz/folder/lMRVELoR#01a4KaUDbCycjlrDgq5UdQ/folder/8ZghSRpZ)
 
@@ -35,3 +36,4 @@ Delta Patcher: https://github.com/marco-calautti/DeltaPatcher
 - Ape Escape Ship `WPFE02207DTEAMSKIN0000` : An unreleased official Ape Escape skin for Goteki 45
 - Custom Grids `WPFE02207GR` : A set of modded custom grids
 - Elite Difficulty `ELITEAI` : Upgrades the Hard AI difficulty level to Elite
+- Wrecked Ships `WRSHIPS` : Improves the models used for destroyed ships
