@@ -1,3 +1,4 @@
+![WipEout Pure](https://github.com/user-attachments/assets/04b5ba85-c9a4-4df7-9a5a-5ca42e59ccbf)
 ## WipEout Pure: Special Edition
 The definitive version of WipEout Pure. [*Version 5.3*](https://mega.nz/folder/lMRVELoR#01a4KaUDbCycjlrDgq5UdQ/folder/NYYxQB5a)
 
@@ -53,6 +54,8 @@ Delta Patcher: https://github.com/marco-calautti/DeltaPatcher
 *-* Coca-Cola Ships `WPSE02197DCOCACOLA` : Replaces the standard ship with a Coca-Cola version for the original 8 teams  
 *-* VR Ships `WPSE02197DVR` : Makes all ships use their VR variant (from Classic League) on all tracks with VR effects
 
-- Fonts **[.xdelta]**  
-`Wip3out Font` : Replaces the fonts with F500 Ang-ular and Helvetica from Wip3out  
-`WipEout Fusion Font` : Adds the font and menu music from WipEout Fusion
+- Fonts **[.zip]**  
+`WipEout 2097 Font` : Adds the Amalgama and small fonts from WipEout 2097  
+`Wip3out Font` : Adds the F500 Ang-ular and Helvetica fonts from Wip3out  
+`WipEout Fusion Font` : Adds the menu font from WipEout Fusion  
+`WipEout Pulse Font` : Adds the X2 and supErphoniX2 fonts from WipEout Pulse
