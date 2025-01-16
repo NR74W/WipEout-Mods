@@ -1,21 +1,9 @@
 ![WipEout Pure](https://github.com/user-attachments/assets/04b5ba85-c9a4-4df7-9a5a-5ca42e59ccbf)
-## WipEout Pure: Special Edition
-The definitive version of WipEout Pure. [*Version 5.3*](https://mega.nz/folder/lMRVELoR#01a4KaUDbCycjlrDgq5UdQ/folder/NYYxQB5a)
 
-### Information
-```diff
-WipEout Pure (UCES-00001) > WipEout Pure: Special Edition (WPSE-02197)
-Size:   352714752 > 331776000
+The definitive version of WipEout Pure. *Version 5.4*
 
-CRC-32: 430725bf > 8dcb4354 (v5.3) / bab445df (v5.3A)
-MD5:    181d349bb577f0cc4aafdc54d9aea96b > dc3133c43b72664f54a485113fc61e67 (v5.3) / 38434e3e14baa826beddea2d8942e961 (v5.3A)
-SHA-1:  710a189ebece7af3a1e796fdcd070302ee562097 > 5d06789cf4ff96cf932f48df546a802122b10612 (v5.3) / c0f844424e50987b8e187af356eefe0f63e2c002 (v5.3A)
-
-Delta Patcher: https://github.com/marco-calautti/DeltaPatcher
-```
-> [!TIP]
-> Version 5.3A removes the [sun lens flare effect](https://github.com/hrydgard/ppsspp/issues/13344), which is inaccurately rendered on PPSSPP (always visible / flickering).  
-> This version is intended for use with PPSSPP, since the effect is correct on real hardware.
+> [!NOTE]
+> This mod is included in the compilation [*WipEout Portable Collection*](https://github.com/NR74W/WipEout-Mods/tree/master/WipEout%20Portable%20Collection)
 
 ### Changes
 - Added  
@@ -26,6 +14,7 @@ Delta Patcher: https://github.com/marco-calautti/DeltaPatcher
 
 - Resolved  
 *-* Ship stats  
+*-* Exostra Run crash  
 *-* Grid position on Sinucit  
 *-* Z-fighting on Zone HUD
 
@@ -33,15 +22,14 @@ Delta Patcher: https://github.com/marco-calautti/DeltaPatcher
 *-* Game size reduced  
 *-* Interface improved  
 *-* Thrust bar restored  
-*-* 60FPS built-in (v5.3A)  
-*-* DLC signature check disabled  
-*-* …
+*-* More…
 
 ### Downloadable Content
 > [!NOTE]
 > - Promotional Pack `WPSE02197DPROMO` : Enables the promotional content (MediEvil, Puma, Sci Fi, Coca-Cola, Stealth, …)
 
 - Packs  
+*-* Billboard Pack `WPSE02197DBB` : Restores the unused billboards  
 *-* Expert Pack `WPSE02197DEXPERT` : Increases the AI difficulty  
 *-* HUD Pack `WPSE02197DHUD` : Reduces the size of the HUD elements  
 *-* Zone Pack `WPSE02197DZONE` : Adds the Zone League (Pro Tozo / Mallavol / Corridon 12 / Syncopia) and tournaments
@@ -54,7 +42,8 @@ Delta Patcher: https://github.com/marco-calautti/DeltaPatcher
 *-* Coca-Cola Ships `WPSE02197DCOCACOLA` : Replaces the standard ship with a Coca-Cola version for the original 8 teams  
 *-* VR Ships `WPSE02197DVR` : Makes all ships use their VR variant (from Classic League) on all tracks with VR effects
 
-- Fonts **[.zip]**  
+- Fonts **[Installation on UMD]**  
+`WipEout 2048 Font` : Adds the Neo Sans and Bitsumishi Pro fonts from WipEout 2048  
 `WipEout 2097 Font` : Adds the Amalgama and small fonts from WipEout 2097  
 `Wip3out Font` : Adds the F500 Ang-ular and Helvetica fonts from Wip3out  
 `WipEout Fusion Font` : Adds the menu font from WipEout Fusion  

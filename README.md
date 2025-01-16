@@ -1,13 +1,12 @@
-## WipEout Mods
+# WipEout Mods
+### WipEout Portable Collection
+- A compilation of both WipEout Pure and WipEout Pulse mods in a single game.
 
-### WipEout Pure
-- WipEout Pure: Special Edition  
-The definitive version of WipEout Pure.
+  - The definitive version of WipEout Pure.
+  - A complete and improved version of WipEout Pulse.
 
-### WipEout Pulse
-- WipEout Pulse: Future Edition  
-A complete and improved version of WipEout Pulse.
-- WipEout Pulse - PS2 Concept Ships  
-Restores the unused Concept ships in the PlayStation 2 version of WipEout Pulse.
-
-The [repository](https://mega.nz/folder/lMRVELoR#01a4KaUDbCycjlrDgq5UdQ) also contains data, fonts and texture packs for games of the WipEout series.
+> [!NOTE]
+> Since PPSSPP v1.18.1-533, the sun lens flare effect is now correctly rendered.  
+> The line `WPCE02025 = true` must be added in **(PPSSPP folder)/assets/compat.ini** under _[SoftwareRasterDepth]_.
+> 
+> The [MEGA folder](https://mega.nz/folder/lMRVELoR#01a4KaUDbCycjlrDgq5UdQ) also contains various data and texture packs for games of the WipEout series.
