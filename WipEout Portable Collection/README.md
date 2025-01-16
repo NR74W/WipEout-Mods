@@ -1,4 +1,4 @@
-![WipEout Portable Collection](https://github.com/user-attachments/assets/59f701ce-ca0e-46e4-8a53-716adc8fbe9a)
+![WipEout Portable Collection](https://github.com/user-attachments/assets/6e81bf0d-e281-4d95-b885-56ca7587d56f)
 
 A compilation of both [*WipEout Pure*](https://github.com/NR74W/WipEout-Mods/tree/master/WipEout%20Pure) and [*WipEout Pulse*](https://github.com/NR74W/WipEout-Mods/tree/master/WipEout%20Pulse) mods in a single game. [*Version 1.0*](https://mega.nz/folder/lMRVELoR#01a4KaUDbCycjlrDgq5UdQ/folder/kZg0RRgR)
 
