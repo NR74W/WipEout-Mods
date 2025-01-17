@@ -7,9 +7,9 @@ A compilation of both [*WipEout Pure*](https://github.com/NR74W/WipEout-Mods/tre
 WipEout Pulse (UCES-00465) > WipEout Portable Collection (WPCE-02025)
 Size:   456851456 > 632625152
 
-CRC-32: 6901cb57 > 9f46cb32
-MD5:    e297f0b8d5359c18b2ca3677eff2b714 > c7c1aa50d60efbca8641aa4123ab6f56
-SHA-1:  d359418b5a5d818cfc46408756cb2b7c0131b6b4 > 22742851d2ad9d2b0de047fde55d103a390666e7
+CRC-32: 6901cb57 > ce380704
+MD5:    e297f0b8d5359c18b2ca3677eff2b714 > 5be036ffd8de4742cd057fcc8f2858af
+SHA-1:  d359418b5a5d818cfc46408756cb2b7c0131b6b4 > bb45748ff713719e6e6712014a428230f8688cf2
 
 Delta Patcher: https://github.com/marco-calautti/DeltaPatcher
 ```
