@@ -3,7 +3,7 @@
 A complete and improved version of WipEout Pulse. *Version 5.2*
 
 > [!NOTE]
-> This mod is included in the compilation [*WipEout Portable Collection*](https://github.com/NR74W/WipEout-Mods/tree/master/WipEout%20Portable%20Collection)
+> This mod is included in the compilation [*WipEout Portable Collection*](https://github.com/NR74W/WipEout-Mods/tree/master/WipEout%20Portable%20Collection)  
 > The experimental version adds the 32 tracks from WipEout Pure in the game (imperfect).
 
 ### Changes
