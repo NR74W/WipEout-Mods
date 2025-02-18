@@ -30,7 +30,8 @@ _L 0x2011DDF8 0x00000000
 ```
 
 > [!NOTE]
-> The same savedata from the former mods are used.
+> The same savedata from the former mods are used.  
+> To fix the lens flare flickering in WipEout Pure on PPSSPP: `Settings > Graphics > Lens flare occlusion = Always on`
 
 > [!IMPORTANT]
 > After launching a game, the other game can be accessed at any time:

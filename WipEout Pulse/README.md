@@ -4,10 +4,7 @@ A complete and improved version of WipEout Pulse. *Version 5.2*
 
 > [!NOTE]
 > This mod is included in the compilation [*WipEout Portable Collection*](https://github.com/NR74W/WipEout-Mods/tree/master/WipEout%20Portable%20Collection)
-
-> [!IMPORTANT]
-> Version 5.2E adds the 32 tracks from WipEout Pure in the game.  
-> This unstable version is experimental.
+> The experimental version adds the 32 tracks from WipEout Pure in the game (imperfect).
 
 ### Changes
 - Added  
@@ -21,13 +18,13 @@ A complete and improved version of WipEout Pulse. *Version 5.2*
 *-* Game size significantly reduced  
 *-* Assegai / Auricom Zone frontend models resolved  
 *-* Head to Head (MP) / Eliminator (MP) / AI Race modes restored  
-*-* Increased limits from 50 Zones to 100 / 25 Kills to 250 in RaceBox  
-*-* More…
+*-* Increased limits from 50 Zones to 100 / 25 Kills to 250 in RaceBox
 
-### Custom DLC
+### Downloadable Content
 - Ape Escape Ship `UCES00465DTEAMSKIN0000` : An unreleased official Ape Escape skin for Goteki 45
 - Custom Grids `WPFE02207GR` : A set of modded custom grids
-- Elite Difficulty `ELITEAI` : Upgrades the Hard AI difficulty level to Elite
+- Elite Difficulty `ELITEAI` : Increases the Hard AI difficulty level to Elite
+- HUD `SMALLHUD` : Reduces the size of the HUD elements
 - Wrecked Ships `WRSHIPS` : Improves the models used for destroyed ships
 
 

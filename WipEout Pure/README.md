@@ -21,8 +21,7 @@ The definitive version of WipEout Pure. *Version 5.4*
 - Other changes  
 *-* Game size reduced  
 *-* Interface improved  
-*-* Thrust bar restored  
-*-* More…
+*-* Thrust bar restored
 
 ### Downloadable Content
 > [!NOTE]
