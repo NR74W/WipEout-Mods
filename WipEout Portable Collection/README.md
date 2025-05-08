@@ -1,21 +1,23 @@
-![WipEout Portable Collection](https://github.com/user-attachments/assets/6e81bf0d-e281-4d95-b885-56ca7587d56f)
+# ![WipEout Portable Collection](https://github.com/user-attachments/assets/6e81bf0d-e281-4d95-b885-56ca7587d56f)
 
-A compilation of both [*WipEout Pure*](https://github.com/NR74W/WipEout-Mods/tree/master/WipEout%20Pure) and [*WipEout Pulse*](https://github.com/NR74W/WipEout-Mods/tree/master/WipEout%20Pulse) mods in a single game. [*Version 1.0*](https://mega.nz/folder/lMRVELoR#01a4KaUDbCycjlrDgq5UdQ/folder/kZg0RRgR)
+A compilation of both **WipEout Pure** and **WipEout Pulse** mods in a single game. [*Version 2.0*](https://mega.nz/folder/lMRVELoR#01a4KaUDbCycjlrDgq5UdQ/folder/kZg0RRgR)
 
 ### Information
 ```diff
 WipEout Pulse (UCES-00465) > WipEout Portable Collection (WPCE-02025)
-Size:   456851456 > 632625152
+Size:   456851456 > 487692288
 
-CRC-32: 6901cb57 > ce380704
-MD5:    e297f0b8d5359c18b2ca3677eff2b714 > 5be036ffd8de4742cd057fcc8f2858af
-SHA-1:  d359418b5a5d818cfc46408756cb2b7c0131b6b4 > bb45748ff713719e6e6712014a428230f8688cf2
+CRC-32: 6901cb57 > 840d5294
+MD5:    e297f0b8d5359c18b2ca3677eff2b714 > fef977167e54873c5dd367b27830acd6
+SHA-1:  d359418b5a5d818cfc46408756cb2b7c0131b6b4 > 5ecb62311d5b8976da1ce400d8af0c980df3509b
 
 Delta Patcher: https://github.com/marco-calautti/DeltaPatcher
 ```
 
 ### Codes
 ```diff
+_S WPCE-02025
+_G WipEout Portable Collection
 _C1 Force 60FPS (In-Game Only) (WipEout Pure)
 _L 0xD0288AE0 0x20000000
 _L 0x2006509C 0x1480FFFB
@@ -30,15 +32,66 @@ _L 0x2011DDF8 0x00000000
 ```
 
 > [!NOTE]
-> The same savedata from the former mods are used.  
-> To fix the lens flare flickering in WipEout Pure on PPSSPP: `Settings > Graphics > Lens flare occlusion = Always on`
-
-> [!IMPORTANT]
 > After launching a game, the other game can be accessed at any time:
 > - "Main Menu > Options > Play WipEout Pulse" in WipEout Pure
 > - "Main Menu > Extras > Play WipEout Pure" in WipEout Pulse
 
 > [!TIP]
-> The experimental version of the WipEout Pulse mod can be selected:
-> - By pressing the Down button twice in the Game Select menu (WipEout Portable Collection)
-> - A menu appears after selecting "Play WipEout Pulse" asking which version to play (WipEout Pure)
+> The alternative version of WipEout Pulse can run the tracks from WipEout Pure (with the WipEout Pure Tracks `FX300TRACKS` pack).  
+> It can be selected by pressing the Down button twice:
+> - In the Game Select menu (WipEout Portable Collection)
+> - After selecting "Play WipEout Pulse" (WipEout Pure)
+
+### Changes
+- Added  
+*-* All DLC content  
+*-* All tracks available in Zone mode  
+*-* All tracks / ships / leagues / speed classes available from the start  
+*-* Japanese language (WipEout Pure)
+
+- Resolved  
+*-* Exostra Run crash  
+*-* Grid position on Sinucit  
+*-* Ship stats (WipEout Pure)  
+*-* Z-fighting on Zone HUD (WipEout Pure)  
+*-* Assegai / Auricom Zone frontend models (WipEout Pulse)
+
+- Other changes  
+*-* Game size reduced  
+*-* Interface improved  
+*-* Thrust bar restored (WipEout Pure)  
+*-* 5th track images restored (WipEout Pulse)  
+*-* Head to Head (MP) / Eliminator (MP) / AI Race modes restored (WipEout Pulse)  
+*-* Increased limits from 50 Zones to 100 / 25 Kills to 250 in Racebox (WipEout Pulse)
+
+### Downloadable Content (WipEout Pure)
+- Promotional Pack `WPCE02197DPROMO` : Enables the promotional content (MediEvil, Puma, Sci Fi, Coca-Cola, Stealth, …)
+
+- Packs  
+*-* Billboard Pack `WPCE02197DBB` : Restores the unused billboards  
+*-* Expert Pack `WPCE02197DEXPERT` : Increases the AI difficulty  
+*-* HUD Pack `WPCE02197DHUD` : Reduces the size of the HUD elements  
+*-* Zone Pack `WPCE02197DZONE` : Adds the Zone League (Pro Tozo / Mallavol / Corridon 12 / Syncopia) and 3 tournaments
+
+- Skins  
+*-* WipEout Skins `WPCE02197DWO` : Contains 5 custom menu skins (WipEout / WipEout 2097 / WipEout 64 / Wip3out / WipEout Fusion)  
+*-* WipEoutZone Skin `WPCE02197DWZ` : Adds a custom skin inspired by the WipEoutZone website
+
+- Ships  
+*-* Coca-Cola Ships `WPCE02197DCOCACOLA` : Replaces the standard ship with a Coca-Cola version for the original 8 teams  
+*-* VR Ships `WPCE02197DVR` : Makes all ships use their VR variant (from Classic League) on all tracks with VR effects
+
+- Fonts **[Installation on UMD]**  
+`WipEout 2048 Font` : Adds the Neo Sans and Bitsumishi Pro fonts from WipEout 2048  
+`WipEout 2097 Font` : Adds the Amalgama and small fonts from WipEout 2097  
+`Wip3out Font` : Adds the F500 Ang-ular and Helvetica fonts from Wip3out  
+`WipEout Fusion Font` : Adds the menu font from WipEout Fusion  
+`WipEout Pulse Font` : Adds the X2 and supErphoniX2 fonts from WipEout Pulse
+
+### Downloadable Content (WipEout Pulse)
+- Ape Escape Ship `UCES00465DTEAMSKIN0000` : An unreleased official Ape Escape skin for Goteki 45
+- Custom Grids `WPCE02207GR` : A set of modded custom grids
+- Elite Difficulty `ELITEAI` : Increases the Hard AI difficulty level to Elite
+- Hi-Res Wrecked Ships `HRWSHIPS` : Improves the models used for destroyed ships
+- Small HUD `SMALLHUD` : Reduces the size of the HUD elements
+- WipEout Pure Tracks `FX300TRACKS` : Adds the tracks from WipEout Pure (experimental)
