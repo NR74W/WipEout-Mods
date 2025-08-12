@@ -1,20 +1,20 @@
 # ![WipEout Portable Collection](https://github.com/user-attachments/assets/6e81bf0d-e281-4d95-b885-56ca7587d56f)
 
-A compilation of both **WipEout Pure** and **WipEout Pulse** mods in a single game. [*Version 2.0*](https://mega.nz/folder/lMRVELoR#01a4KaUDbCycjlrDgq5UdQ/folder/kZg0RRgR)
+An enhanced compilation of **WipEout Pure** and **WipEout Pulse**. [*Version 2.1*](https://mega.nz/folder/gBwx2ZLT#01a4KaUDbCycjlrDgq5UdQ/folder/kZg0RRgR)
 
 ### Information
 ```diff
 WipEout Pulse (UCES-00465) > WipEout Portable Collection (WPCE-02025)
-Size:   456851456 > 487692288
+Size:   456851456 > 463927296
 
-CRC-32: 6901cb57 > 840d5294
-MD5:    e297f0b8d5359c18b2ca3677eff2b714 > fef977167e54873c5dd367b27830acd6
-SHA-1:  d359418b5a5d818cfc46408756cb2b7c0131b6b4 > 5ecb62311d5b8976da1ce400d8af0c980df3509b
+CRC-32: 6901cb57 > b7152144
+MD5:    e297f0b8d5359c18b2ca3677eff2b714 > 5e36ecd953e7160c2c0948d300f9fab9
+SHA-1:  d359418b5a5d818cfc46408756cb2b7c0131b6b4 > 227350d9b05c98eb578a71af3926e6ef243da2bc
 
 Delta Patcher: https://github.com/marco-calautti/DeltaPatcher
 ```
 
-### Codes
+### CWCheat Codes
 ```diff
 _S WPCE-02025
 _G WipEout Portable Collection
@@ -45,7 +45,7 @@ _L 0x2011DDF8 0x00000000
 ### Changes
 - Added  
 *-* All DLC content  
-*-* All tracks available in Zone mode  
+*-* All tracks available in Zone mode (WipEout Pure)  
 *-* All tracks / ships / leagues / speed classes available from the start  
 *-* Japanese language (WipEout Pure)
 
@@ -71,6 +71,7 @@ _L 0x2011DDF8 0x00000000
 *-* Billboard Pack `WPCE02197DBB` : Restores the unused billboards  
 *-* Expert Pack `WPCE02197DEXPERT` : Increases the AI difficulty  
 *-* HUD Pack `WPCE02197DHUD` : Reduces the size of the HUD elements  
+*-* Triakis Pack `WPCE02197DTRIAKIS` : Restores the original ship stats for Triakis  
 *-* Zone Pack `WPCE02197DZONE` : Adds the Zone League (Pro Tozo / Mallavol / Corridon 12 / Syncopia) and 3 tournaments
 
 - Skins  
@@ -94,4 +95,5 @@ _L 0x2011DDF8 0x00000000
 - Elite Difficulty `ELITEAI` : Increases the Hard AI difficulty level to Elite
 - Hi-Res Wrecked Ships `HRWSHIPS` : Improves the models used for destroyed ships
 - Small HUD `SMALLHUD` : Reduces the size of the HUD elements
+- Zone Tracks `ZONETRACKS` : Makes Metropia / The Amphiseum / Vertica / Outpost 7 / Gemini Dam available in Zone mode
 - WipEout Pure Tracks `FX300TRACKS` : Adds the tracks from WipEout Pure (experimental)
