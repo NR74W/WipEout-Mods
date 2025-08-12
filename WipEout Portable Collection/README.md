@@ -1,4 +1,4 @@
-# ![WipEout Portable Collection](https://github.com/user-attachments/assets/6e81bf0d-e281-4d95-b885-56ca7587d56f)
+# ![WipEout Portable Collection](https://github.com/user-attachments/assets/9ca254c4-d7c8-4478-b178-4708f1e2a49a)
 
 An enhanced compilation of **WipEout Pure** and **WipEout Pulse**. [*Version 2.1*](https://mega.nz/folder/gBwx2ZLT#01a4KaUDbCycjlrDgq5UdQ/folder/kZg0RRgR)
 
