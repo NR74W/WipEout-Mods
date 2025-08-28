@@ -1,15 +1,15 @@
 # ![WipEout Portable Collection](https://github.com/user-attachments/assets/9ca254c4-d7c8-4478-b178-4708f1e2a49a)
 
-An enhanced compilation of **WipEout Pure** and **WipEout Pulse**. [*Version 2.1*](https://mega.nz/folder/gBwx2ZLT#01a4KaUDbCycjlrDgq5UdQ/folder/kZg0RRgR)
+An enhanced compilation of **WipEout Pure** and **WipEout Pulse**. [*Version 2.2*](https://mega.nz/folder/gBwx2ZLT#01a4KaUDbCycjlrDgq5UdQ/folder/kZg0RRgR)
 
 ### Information
 ```diff
 WipEout Pulse (UCES-00465) > WipEout Portable Collection (WPCE-02025)
-Size:   456851456 > 463927296
+Size:   456851456 > 349036544
 
-CRC-32: 6901cb57 > b7152144
-MD5:    e297f0b8d5359c18b2ca3677eff2b714 > 5e36ecd953e7160c2c0948d300f9fab9
-SHA-1:  d359418b5a5d818cfc46408756cb2b7c0131b6b4 > 227350d9b05c98eb578a71af3926e6ef243da2bc
+CRC-32: 6901cb57 > c5f32589
+MD5:    e297f0b8d5359c18b2ca3677eff2b714 > f66d6872a12b8e8425abae94420e12b1
+SHA-1:  d359418b5a5d818cfc46408756cb2b7c0131b6b4 > b1e86ac08aacf70749f8d2a562ba155267fe2dbd
 
 Delta Patcher: https://github.com/marco-calautti/DeltaPatcher
 ```
@@ -65,14 +65,21 @@ _L 0x2011DDF8 0x00000000
 *-* Increased limits from 50 Zones to 100 / 25 Kills to 250 in Racebox (WipEout Pulse)
 
 ### Downloadable Content (WipEout Pure)
-- Promotional Pack `WPCE02197DPROMO` : Enables the promotional content (MediEvil, Puma, Sci Fi, Coca-Cola, Stealth, …)
-
 - Packs  
 *-* Billboard Pack `WPCE02197DBB` : Restores the unused billboards  
 *-* Expert Pack `WPCE02197DEXPERT` : Increases the AI difficulty  
 *-* HUD Pack `WPCE02197DHUD` : Reduces the size of the HUD elements  
 *-* Triakis Pack `WPCE02197DTRIAKIS` : Restores the original ship stats for Triakis  
 *-* Zone Pack `WPCE02197DZONE` : Adds the Zone League (Pro Tozo / Mallavol / Corridon 12 / Syncopia) and 3 tournaments
+
+- Promotional Packs  
+*-* `WPCE02197DLCMUSIC` : Adds the promotional music (A7 / Oblivion / Voice of Cod / Pure Urban / Continue / WIRE05 / Exit 15)  
+*-* `WPCE02197DLCSHIPS` : Adds the promotional ships (MediEvil / US ships / Omega ships / Puma 1-2 / Coke Style / WIRE05 / ...)  
+*-* `WPCE02197DLCSKINS` : Adds the promotional skins (Daxter / Jak X / SOCOM 3-FTB / Omega skins / Puma 1-2 / GamesRadar / ...)  
+*-* `WPCE02197DLCTRACKS` : Adds the promotional tracks (Puma Delta League tracks / Sci Fi / Coca-Cola 1-2 / WIRE05 / Stealth)
+
+- Music  
+*-* Classic Music `WPCE02197DCLASSICM` : Adds the 4 music tracks by CoLDSToRAGE from the Classic Packs
 
 - Skins  
 *-* WipEout Skins `WPCE02197DWO` : Contains 5 custom menu skins (WipEout / WipEout 2097 / WipEout 64 / Wip3out / WipEout Fusion)  
