@@ -1,15 +1,15 @@
 # ![WipEout Portable Collection](https://github.com/user-attachments/assets/9ca254c4-d7c8-4478-b178-4708f1e2a49a)
 
-An enhanced compilation of **WipEout Pure** and **WipEout Pulse**. [*Version 2.2*](https://mega.nz/folder/gBwx2ZLT#01a4KaUDbCycjlrDgq5UdQ/folder/kZg0RRgR)
+An enhanced compilation of **WipEout Pure** and **WipEout Pulse**. [*Version 2.3*](https://mega.nz/folder/gBwx2ZLT#01a4KaUDbCycjlrDgq5UdQ/folder/kZg0RRgR)
 
 ### Information
 ```diff
 WipEout Pulse (UCES-00465) > WipEout Portable Collection (WPCE-02025)
-Size:   456851456 > 349036544
+Size:   456851456 > 348993536
 
-CRC-32: 6901cb57 > c5f32589
-MD5:    e297f0b8d5359c18b2ca3677eff2b714 > f66d6872a12b8e8425abae94420e12b1
-SHA-1:  d359418b5a5d818cfc46408756cb2b7c0131b6b4 > b1e86ac08aacf70749f8d2a562ba155267fe2dbd
+CRC-32: 6901cb57 > 049d74bd
+MD5:    e297f0b8d5359c18b2ca3677eff2b714 > 59d997f5dbcc711edb691574604ad036
+SHA-1:  d359418b5a5d818cfc46408756cb2b7c0131b6b4 > e49f87a174641a8e0a264c7b006798d6337cd8e1
 
 Delta Patcher: https://github.com/marco-calautti/DeltaPatcher
 ```
@@ -65,6 +65,9 @@ _L 0x2011DDF8 0x00000000
 *-* Increased limits from 50 Zones to 100 / 25 Kills to 250 in Racebox (WipEout Pulse)
 
 ### Downloadable Content (WipEout Pure)
+- Music  
+*-* Classic Music `WPCE02197DCLASSICM` : Adds the 4 music tracks by CoLD SToRAGE from the Classic Pack
+
 - Packs  
 *-* Billboard Pack `WPCE02197DBB` : Restores the unused billboards  
 *-* Expert Pack `WPCE02197DEXPERT` : Increases the AI difficulty  
@@ -78,23 +81,20 @@ _L 0x2011DDF8 0x00000000
 *-* `WPCE02197DLCSKINS` : Adds the promotional skins (Daxter / Jak X / SOCOM 3-FTB / Omega skins / Puma 1-2 / GamesRadar / ...)  
 *-* `WPCE02197DLCTRACKS` : Adds the promotional tracks (Puma Delta League tracks / Sci Fi / Coca-Cola 1-2 / WIRE05 / Stealth)
 
-- Music  
-*-* Classic Music `WPCE02197DCLASSICM` : Adds the 4 music tracks by CoLDSToRAGE from the Classic Packs
+- Ships  
+*-* Coca-Cola Ships `WPCE02197DCOCACOLA` : Replaces the standard ship with a Coca-Cola version for the original 8 teams  
+*-* VR Ships `WPCE02197DVR` : Makes all ships use their VR variant (from Classic League) on all tracks with VR effects
 
 - Skins  
 *-* WipEout Skins `WPCE02197DWO` : Contains 5 custom menu skins (WipEout / WipEout 2097 / WipEout 64 / Wip3out / WipEout Fusion)  
 *-* WipEoutZone Skin `WPCE02197DWZ` : Adds a custom skin inspired by the WipEoutZone website
 
-- Ships  
-*-* Coca-Cola Ships `WPCE02197DCOCACOLA` : Replaces the standard ship with a Coca-Cola version for the original 8 teams  
-*-* VR Ships `WPCE02197DVR` : Makes all ships use their VR variant (from Classic League) on all tracks with VR effects
-
 - Fonts **[Installation on UMD]**  
-`WipEout 2048 Font` : Adds the Neo Sans and Bitsumishi Pro fonts from WipEout 2048  
-`WipEout 2097 Font` : Adds the Amalgama and small fonts from WipEout 2097  
-`Wip3out Font` : Adds the F500 Ang-ular and Helvetica fonts from Wip3out  
-`WipEout Fusion Font` : Adds the menu font from WipEout Fusion  
-`WipEout Pulse Font` : Adds the X2 and supErphoniX2 fonts from WipEout Pulse
+*-* `WipEout 2048 Font` : Adds the Neo Sans and Bitsumishi Pro fonts from WipEout 2048  
+*-* `WipEout 2097 Font` : Adds the Amalgama and small fonts from WipEout 2097  
+*-* `Wip3out Font` : Adds the F500 Ang-ular and Helvetica fonts from Wip3out  
+*-* `WipEout Fusion Font` : Adds the menu font from WipEout Fusion  
+*-* `WipEout Pulse Font` : Adds the X2 and supErphoniX2 fonts from WipEout Pulse
 
 ### Downloadable Content (WipEout Pulse)
 - Ape Escape Ship `UCES00465DTEAMSKIN0000` : An unreleased official Ape Escape skin for Goteki 45
