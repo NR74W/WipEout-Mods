@@ -1,15 +1,15 @@
 # ![WipEout Portable Collection](https://github.com/user-attachments/assets/9ca254c4-d7c8-4478-b178-4708f1e2a49a)
 
-An enhanced compilation of **WipEout Pure** and **WipEout Pulse**. [*Version 2.3*](https://mega.nz/folder/gBwx2ZLT#01a4KaUDbCycjlrDgq5UdQ/folder/kZg0RRgR)
+An enhanced compilation of **WipEout Pure** and **WipEout Pulse**. [*Version 2.4*](https://mega.nz/folder/gBwx2ZLT#01a4KaUDbCycjlrDgq5UdQ/folder/kZg0RRgR)
 
 ### Information
 ```diff
 WipEout Pulse (UCES-00465) > WipEout Portable Collection (WPCE-02025)
-Size:   456851456 > 348993536
+Size:   456851456 > 349235200
 
-CRC-32: 6901cb57 > 049d74bd
-MD5:    e297f0b8d5359c18b2ca3677eff2b714 > 59d997f5dbcc711edb691574604ad036
-SHA-1:  d359418b5a5d818cfc46408756cb2b7c0131b6b4 > e49f87a174641a8e0a264c7b006798d6337cd8e1
+CRC-32: 6901cb57 > cd1304f0
+MD5:    e297f0b8d5359c18b2ca3677eff2b714 > 117e5175ea900ab2d33f4baaac960172
+SHA-1:  d359418b5a5d818cfc46408756cb2b7c0131b6b4 > d3810f99f650f9d418113f8ed7e22c83f53f2765
 
 Delta Patcher: https://github.com/marco-calautti/DeltaPatcher
 ```
@@ -71,7 +71,7 @@ _L 0x2011DDF8 0x00000000
 - Packs  
 *-* Billboard Pack `WPCE02197DBB` : Restores the unused billboards  
 *-* Expert Pack `WPCE02197DEXPERT` : Increases the AI difficulty  
-*-* HUD Pack `WPCE02197DHUD` : Reduces the size of the HUD elements  
+*-* HUD Pack `WPCE02197DHUD` : Reduces the size of (or hide) the HUD elements  
 *-* Triakis Pack `WPCE02197DTRIAKIS` : Restores the original ship stats for Triakis  
 *-* Zone Pack `WPCE02197DZONE` : Adds the Zone League (Pro Tozo / Mallavol / Corridon 12 / Syncopia) and 3 tournaments
 
@@ -83,7 +83,7 @@ _L 0x2011DDF8 0x00000000
 
 - Ships  
 *-* Coca-Cola Ships `WPCE02197DCOCACOLA` : Replaces the standard ship with a Coca-Cola version for the original 8 teams  
-*-* VR Ships `WPCE02197DVR` : Makes all ships use their VR variant (from Classic League) on all tracks with VR effects
+*-* VR Ships `WPCE02197DVR` : Makes all ships use their VR variant (from Classic League) on all tracks with (or without) VR effects
 
 - Skins  
 *-* WipEout Skins `WPCE02197DWO` : Contains 5 custom menu skins (WipEout / WipEout 2097 / WipEout 64 / Wip3out / WipEout Fusion)  
@@ -101,6 +101,7 @@ _L 0x2011DDF8 0x00000000
 - Custom Grids `WPCE02207GR` : A set of modded custom grids
 - Elite Difficulty `ELITEAI` : Increases the Hard AI difficulty level to Elite
 - Hi-Res Wrecked Ships `HRWSHIPS` : Improves the models used for destroyed ships
+- Music Pictures `MUSICTEX` : Replaces the pictures used for the music playlist
 - Small HUD `SMALLHUD` : Reduces the size of the HUD elements
 - Zone Tracks `ZONETRACKS` : Makes Metropia / The Amphiseum / Vertica / Outpost 7 / Gemini Dam available in Zone mode
 - WipEout Pure Tracks `FX300TRACKS` : Adds the tracks from WipEout Pure (experimental)
