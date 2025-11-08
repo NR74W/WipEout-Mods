@@ -66,9 +66,9 @@ _L 0x2011DDF8 0x00000000
 
 ### Downloadable Content (WipEout Pure)
 > [!TIP]
-> After updating, please verify if there isn't a new version of the Downloadable Contents, especially for WipEout Pure, not doing it may result in crashing because of missing content (as dlc content can be packed within in the .Iso and make the Downloadable Content serve only as an unlocker).
+> After updating, please verify if there isn't a new version of the Downloadable Contents, especially for WipEout Pure, not doing it may result in crashing because of missing content (as dlc content can be packed within in the .iso created via Delta Patcher and make the Downloadable Content serve only as an unlocker).
 > 
-> Due to the nature of the Downloadable content in the WipEout Pulse part, Pulse is less susceptible problems.
+> Due to the nature of the Downloadable content in the WipEout Pulse part, Pulse is less susceptible to problems.
 
 - Music  
 *-* Classic Music `WPCE02197DCLASSICM` : Adds the 4 music tracks by CoLD SToRAGE from the Classic Pack
