@@ -1,8 +1,7 @@
 # ![WipEout Portable Collection](https://github.com/user-attachments/assets/9ca254c4-d7c8-4478-b178-4708f1e2a49a)
-
 An enhanced compilation of **WipEout Pure** and **WipEout Pulse**. [*Version 2.4*](https://mega.nz/folder/gBwx2ZLT#01a4KaUDbCycjlrDgq5UdQ/folder/kZg0RRgR)
 
-### Information
+## Game Information
 ```diff
 WipEout Pulse (UCES-00465) > WipEout Portable Collection (WPCE-02025)
 Size:   456851456 > 349235200
@@ -14,35 +13,18 @@ SHA-1:  d359418b5a5d818cfc46408756cb2b7c0131b6b4 > d3810f99f650f9d418113f8ed7e22
 Delta Patcher: https://github.com/marco-calautti/DeltaPatcher
 ```
 
-### CWCheat Codes
-```diff
-_S WPCE-02025
-_G WipEout Portable Collection
-_C1 Force 60FPS (In-Game Only) (WipEout Pure)
-_L 0xD0288AE0 0x20000000
-_L 0x2006509C 0x1480FFFB
-_L 0xD0288AE0 0x20000001
-_L 0x2006509C 0x00000000
-
-_C0 Force 60FPS (All) (WipEout Pure/Pulse)
-_L 0xD006509E 0x00103413
-_L 0x2006509C 0x00000000
-_L 0xD011DDF8 0x0010FB85
-_L 0x2011DDF8 0x00000000
-```
-
 > [!NOTE]
 > After launching a game, the other game can be accessed at any time:
 > - "Main Menu > Options > Play WipEout Pulse" in WipEout Pure
 > - "Main Menu > Extras > Play WipEout Pure" in WipEout Pulse
 
 > [!TIP]
-> The alternative version of WipEout Pulse can run the tracks from WipEout Pure (with the WipEout Pure Tracks `FX300TRACKS` pack).  
+> WipEout Pulse can run the tracks from WipEout Pure using an alternative version (with the `FX300TRACKS` pack installed).  
 > It can be selected by pressing the Down button twice:
 > - In the Game Select menu (WipEout Portable Collection)
 > - After selecting "Play WipEout Pulse" (WipEout Pure)
 
-### Changes
+## Changes
 - Added  
 *-* All DLC content  
 *-* All tracks available in Zone mode (WipEout Pure)  
@@ -64,7 +46,29 @@ _L 0x2011DDF8 0x00000000
 *-* Head to Head (MP) / Eliminator (MP) / AI Race modes restored (WipEout Pulse)  
 *-* Increased limits from 50 Zones to 100 / 25 Kills to 250 in Racebox (WipEout Pulse)
 
-### Downloadable Content (WipEout Pure)
+## CWCheat Codes
+```diff
+_S WPCE-02025
+_G WipEout Portable Collection
+_C1 Force 60FPS (In-Game Only) (WipEout Pure)
+_L 0xD0288AE0 0x20000000
+_L 0x2006509C 0x1480FFFB
+_L 0xD0288AE0 0x20000001
+_L 0x2006509C 0x00000000
+
+_C0 Force 60FPS (All) (WipEout Pure/Pulse)
+_L 0xD006509E 0x00103413
+_L 0x2006509C 0x00000000
+_L 0xD011DDF8 0x0010FB85
+_L 0x2011DDF8 0x00000000
+```
+
+## Downloadable Content
+> [!WARNING]
+> 
+> The downloadable content packs must be updated to the latest version to prevent incompatibilities.
+
+### WipEout Pure
 - Music  
 *-* Classic Music `WPCE02197DCLASSICM` : Adds the 4 music tracks by CoLD SToRAGE from the Classic Pack
 
@@ -96,7 +100,7 @@ _L 0x2011DDF8 0x00000000
 *-* `WipEout Fusion Font` : Adds the menu font from WipEout Fusion  
 *-* `WipEout Pulse Font` : Adds the X2 and supErphoniX2 fonts from WipEout Pulse
 
-### Downloadable Content (WipEout Pulse)
+### WipEout Pulse
 - Ape Escape Ship `UCES00465DTEAMSKIN0000` : An unreleased official Ape Escape skin for Goteki 45
 - Custom Grids `WPCE02207GR` : A set of modded custom grids
 - Elite Difficulty `ELITEAI` : Increases the Hard AI difficulty level to Elite
