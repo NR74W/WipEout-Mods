@@ -6,8 +6,8 @@
 Mods for **WipEout Pure** and **WipEout Pulse**. [*Version 3.0*](https://mega.nz/folder/gBwx2ZLT#01a4KaUDbCycjlrDgq5UdQ/folder/kZg0RRgR)
 ```diff
 WipEout Pure (Europe) > WipEout Pure  |  WipEout Pulse (Europe) > WipEout Pulse  |  WipEout Pulse (Europe) > WipEout Portable Collection
-Size: 352714752 > 182011904           |  Size: 456851456 > 168443904             |  Size: 456851456 > 348491776
-CRC32: 430725BF > E9D37B19            |  CRC32: 6901CB57 > FCBB526B              |  CRC32: 6901CB57 > D7A222A9
+Size: 352714752 > 182011904           |  Size: 456851456 > 168355840             |  Size: 456851456 > 348403712
+CRC32: 430725BF > E9D37B19            |  CRC32: 6901CB57 > 2A1B570C              |  CRC32: 6901CB57 > 3A0D9CAB
 
 Delta Patcher: https://github.com/marco-calautti/DeltaPatcher
 ```
